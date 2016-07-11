@@ -1,18 +1,16 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+title: yhoshino11's blog
+description: 'blog by open source developer in Japan.'
+url: 'https://yhoshino11.github.io'
 baseurl: '/jekyll-uno/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-80588410-1'
+disqus_shortname: 'yhoshino11'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Yu Hoshino'
+  email: yhoshino11@gmail.com
+  twitter_username: yhoshino11
+  github_username:  yhoshino11
 
 defaults:
   -
