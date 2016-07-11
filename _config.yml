@@ -2,7 +2,7 @@
 title: yhoshino11's blog
 description: 'blog by open source developer in Japan.'
 url: 'https://yhoshino11.github.io'
-baseurl: '/jekyll-uno/'
+baseurl: '/'
 google_analytics: 'UA-80588410-1'
 disqus_shortname: 'yhoshino11'
 
